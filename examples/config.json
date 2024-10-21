@@ -29,5 +29,6 @@
   "stats": {
     "createHtml": true
   },
-  "oef": true
+  "_comment": "disable One Euro Filter interpolation (tracking smoothing):",
+  "oef": false
 }
